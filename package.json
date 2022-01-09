@@ -1,0 +1,26 @@
+{
+  "name": "@ert78gb/jasmine4-typescript-commonjs-example",
+  "private": true,
+  "version": "1.0.0",
+  "description": "Example repo of how to use Jasmine with Typescript in commonjs project",
+  "main": "lib/index.js",
+  "type": "commonjs",
+  "scripts": {
+    "test": "jasmine --config=jasmine.json"
+  },
+  "keywords": [
+    "Jasmine",
+    "Typescript",
+    "commonjs",
+    "example"
+  ],
+  "author": "Róbert Kiss <ert78gb@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "@types/node": "^17.0.8",
+    "@types/jasmine": "^3.10.3",
+    "jasmine": "^4.0.1",
+    "ts-node": "^10.4.0",
+    "typescript": "^4.5.4"
+  }
+}

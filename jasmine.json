@@ -1,0 +1,8 @@
+{
+  "spec_files": [
+    "index.spec.ts"
+  ],
+  "helpers": [
+    "jasmine-typescript-helper.js"
+  ]
+}
